@@ -1,3 +1,3 @@
 # El-blog-de-Sandra
 
-Este proyecto es mi primera página web que compartiré con el desee verlo.
+Este proyecto es mi primera página web que realicé en Escuela de Código y que compartiré con quien desee verlo.
